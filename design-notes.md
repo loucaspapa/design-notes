@@ -22,7 +22,7 @@ A curated list of useful links about design
 * [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
 * [Sass & compass Color Functions](http://jackiebalzer.com/color)
 * [Coolors](https://coolors.co/app/2e6171-556f7a-798086-b79fad-d4afcd)
-* [Adobe Color CC][https://color.adobe.com/create/color-wheel/]
+* [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 * [material palette](https://www.materialpalette.com/)
 * [flatuicolors](https://flatuicolors.com/)
 
@@ -45,12 +45,13 @@ A curated list of useful links about design
 * [Professoinal Web Typography](https://prowebtype.com/)
 * [A pocket guide to master every Day's typographic adventures](http://www.typogui.de/)
 * [Type Terms](http://www.typogui.de/)
-* [Typography for user interfaces][https://viljamis.com/2016/typography-for-user-interfaces/]
+* [Typography for user interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 
 ## General
 
 ### Methodology
-* [Area17 Methodology][https://guides.area17.com/design-techniques/#preface]
+* [Area17 Methodology](https://guides.area17.com/design-techniques/#preface)
+
 ### Onboarding
 
 ### Sketching
