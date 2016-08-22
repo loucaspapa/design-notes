@@ -1,6 +1,7 @@
 # Le Wagon Sketch Workshop 22/08/16
 
 ## 1. Introduction
+Hello, I'm [Loucas Papantoniou][http://loucaspapa.org/], designer at [Central](http://central.team/). 
 In this workshop we'll be using Sketch as our primary design tool. Bohemian Coding Sketch is a very powerful, yet surprisingly lighweight program. 
 
 Sketch is a vector drawing app intended for designers of all sorts. Vector-based drawing is by far the the best way to design websites, icons or interfaces. Sketch is not a bitmap editor. This means that if you want to do photo correction or draw with brushes, this is not the app for you.
