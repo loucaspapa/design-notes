@@ -101,16 +101,17 @@ We're going to work on this weather icon. It might look complicated, but if you 
 ### 4.2 Floating sphere
 One more quick exercise to learn how to use gradients when we need to. 
 
-## 5 The NYT cooking app
+### 4.3 Bezier Curves
+We're going to trace the reload icon to learn how to use the vector tool. 
+
+### 4.4 The NYT cooking app
+We'll use [the screenshots from NYT cooking app](http://pttrns.com/applications/408) and will try to replicate them to start learning how to use Sketch. 
+
 * Walkthrough
 * Login Screen
 * Results
 * Search
 * Recipe
-
-## icons
-* [Pixellove](https://www.pixellove.com/free-icons)
-* [Steamline](http://www.streamlineicons.com/)
 
 ## Resources
 * [Sketchapp documentation coding](https://www.sketchapp.com/learn/documentation/)
@@ -122,3 +123,5 @@ One more quick exercise to learn how to use gradients when we need to.
 * [designcode](https://designcode.io/sketch)
 * [bitfountain](https://www.bitfountain.io)
 * [My design notes](https://github.com/loucaspapa/design-notes/blob/master/design-notes.md)
+* [Pixellove](https://www.pixellove.com/free-icons)
+* [Steamline](http://www.streamlineicons.com/)
