@@ -1,4 +1,4 @@
-# Design Notes
+# Design References
 A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
 ### iOS
