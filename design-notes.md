@@ -11,18 +11,16 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Sketch Shortcuts](http://sketchshortcuts.com/) – A list of keyboard shortcuts for Sketch App.
 * [Diverse Device Hands](http://facebook.design/handskit.html?utm_source=DesignCode) – Facebook's photos of hands holding various phones, to be used in any presentation of your designs.
 * [Sketch app sources](http://www.sketchappsources.com/)
+* [Sketch Repo](https://sketchrepo.com/)
 * [Facebook Design Resources](http://facebook.design/) – A collection of free resources made by designers at Facebook.
+* [Magic Mirror Templates](http://magicmirror.design/templates/) – Image perspective transformation tool for sketch.
+* [Angle](https://designcode.io/angle) – Meng To's new product. 200 devices & mockups for Sketch
 
 ### Sketch plugins
 * [Sketch plugins](https://designcode.io/sketch-plugins) – Meng To's favourite plugins.
 * [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) – Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs.
 * [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) – Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
 * [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) – A Sketch plugin that lets you save and load colors into the color picker.
-
-### Sketch Resources
-* [Magic Mirror Templates](http://magicmirror.design/templates/) – Image perspective transformation tool for sketch.
-* [Angle](https://designcode.io/angle) – Meng To's new product. 200 devices & mockups for Sketch
-* [Sketch Repo](https://sketchrepo.com/)
 
 ### Colors
 * [Color Template](http://rocket-design.fr/color-template/) – A bit of theory on how to choose the right colors for your designs.
