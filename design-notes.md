@@ -1,13 +1,11 @@
 # Design Notes
 A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
-## iOS
+### iOS
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) – Apple's official guidelines. Everything you need to design beautiful, engaging apps that radiate power and simplicity.
 * [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/) – Ivo Mynttinen's design guidelines will help any designer who’s building neat things for iOS get started within seconds.
 * [iPhone 6 Screen size and Web Design Tips](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)
-
-## Visual Design
 
 ### Sketch
 * [Sketch Shortcuts](http://sketchshortcuts.com/) – A list of keyboard shortcuts for Sketch App.
@@ -15,15 +13,16 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Sketch app sources](http://www.sketchappsources.com/)
 * [Facebook Design Resources](http://facebook.design/) – A collection of free resources made by designers at Facebook.
 
-
-
-## Sketch plugins
+### Sketch plugins
 * [Sketch plugins](https://designcode.io/sketch-plugins) – Meng To's favourite plugins.
 * [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) – Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs.
 * [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) – Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
-* [](https://github.com/andrewfiorillo/sketch-palettes)
-* [Sketch Palettes](https://sketchrepo.com/) – A Sketch plugin that lets you save and load colors into the color picker.
+* [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) – A Sketch plugin that lets you save and load colors into the color picker.
 
+### Sketch Resources
+* [Magic Mirror Templates](http://magicmirror.design/templates/) – Image perspective transformation tool for sketch.
+* [Angle](https://designcode.io/angle) – Meng To's new product. 200 devices & mockups for Sketch
+* [Sketch Repo](https://sketchrepo.com/)
 
 ### Colors
 * [Color Template](http://rocket-design.fr/color-template/) – A bit of theory on how to choose the right colors for your designs.
@@ -42,10 +41,6 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Streamline](http://www.streamlineicons.com/)
 * [App icon template](https://appicontemplate.com/)
 
-### Sketch Resources
-* [Magic Mirror Templates](http://magicmirror.design/templates/) – Image perspective transformation tool for sketch.
-* [Angle](https://designcode.io/angle) – Meng To's new product. 200 devices & mockups for Sketch
-
 ### Typography
 * [Typogui.de](http://www.typogui.de/) – A pocket guide to master every day’s typographic adventures.
 * [Typewolf](https://www.typewolf.com) – Typewolf helps designers choose the perfect font combination for their next design project.
@@ -56,8 +51,6 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Typekit Practice](http://practice.typekit.com/) – Typography is a practice.
 * [Professional Web Typography](https://prowebtype.com/) – Another great resource on web typography.
 * [Typography for user interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
-
-## General
 
 ### Process
 * [Area17 Methodology](https://guides.area17.com/design-techniques/#preface) – A defined way of working that has great impact on the final product. It consists of a set of design principles and the techniques to achieve them.
