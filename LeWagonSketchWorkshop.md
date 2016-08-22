@@ -94,6 +94,7 @@ Shared Styles
 * adding fonts
 
 ## 4. Exercises
+For this workshop we'll use the sketch file you'll find [in this shared dropbox folder](https://www.dropbox.com/sh/e5j5k77zo268fni/AABzqrpuVz9M4XTj2H60_S_6a?dl=0). 
 
 ### 4.1 Weather icon
 We're going to work on this weather icon. It might look complicated, but if you double click on it you'll see it consists of circles and rectangles that create this form. 
