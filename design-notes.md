@@ -3,7 +3,6 @@ A curated list of useful links about design
 
 ## iOS
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
-* [Designing Mobile First](https://medium.com/design-with-sketch/designing-mobile-first-a082d2b4a4c8#.ac4jw0r02) – Meng To Medium article on how to design efficiently for different devices.
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) – Apple's official guidelines. Everything you need to design beautiful, engaging apps that radiate power and simplicity.
 * [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/) – Ivo Mynttinen's design guidelines will help any designer who’s building neat things for iOS get started within seconds.
 * [iPhone 6 Screen size and Web Design Tips](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)
@@ -66,7 +65,8 @@ A curated list of useful links about design
 * [Dask](https://kapeli.com/dash) – Instant offline access to 150+ API documentation sets.
 * [Mural](https://mural.co/) – A tool for online brainstorming, synthesis and collaboration.
 
-### Videos
-<!-- * [At The FrontEnd](http://www.atthefrontend.dk/videos)
+
+<!-- ### Videos
+* [At The FrontEnd](http://www.atthefrontend.dk/videos)
 * [Marty Cagan – Great Engineering, Failed Product](http://www.ustream.tv/recorded/61491014)
 * [Andy Budd (Clearleft) | Building a world class design team](https://www.youtube.com/watch?v=JBm77YgWp7s) -->
