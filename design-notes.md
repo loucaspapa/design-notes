@@ -1,5 +1,5 @@
 # Design Notes
-A curated list of useful links about design
+A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
 ## iOS
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
@@ -12,6 +12,18 @@ A curated list of useful links about design
 ### Sketch
 * [Sketch Shortcuts](http://sketchshortcuts.com/) – A list of keyboard shortcuts for Sketch App.
 * [Diverse Device Hands](http://facebook.design/handskit.html?utm_source=DesignCode) – Facebook's photos of hands holding various phones, to be used in any presentation of your designs.
+* [Sketch app sources](http://www.sketchappsources.com/)
+* [Facebook Design Resources](http://facebook.design/) – A collection of free resources made by designers at Facebook.
+
+
+
+## Sketch plugins
+* [Sketch plugins](https://designcode.io/sketch-plugins) – Meng To's favourite plugins.
+* [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) – Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs.
+* [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) – Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
+* [](https://github.com/andrewfiorillo/sketch-palettes)
+* [Sketch Palettes](https://sketchrepo.com/) – A Sketch plugin that lets you save and load colors into the color picker.
+
 
 ### Colors
 * [Color Template](http://rocket-design.fr/color-template/) – A bit of theory on how to choose the right colors for your designs.
@@ -61,6 +73,9 @@ A curated list of useful links about design
 * [bitfountain](https://www.bitfountain.io) – Learn all you need to know to design and build iOS apps.
 
 ### Apps
+* [Zeplin](https://zeplin.io/) – Design hand-off has never been easier. Generate styleguides and resources, automatically.
+* [Flinto](https://www.flinto.com/mac) – A comprehensive app prototyping tool that allows you to create anything from simple tap-through prototypes, to comprehensive prototypes with impressive interactions.
+* [Principle](http://principleformac.com/) – Principle makes it easy to design animated and interactive user interfaces.
 * [Paste](http://pasteapp.me/) – Stores everything you copy.
 * [Dask](https://kapeli.com/dash) – Instant offline access to 150+ API documentation sets.
 * [Mural](https://mural.co/) – A tool for online brainstorming, synthesis and collaboration.
