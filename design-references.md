@@ -10,7 +10,7 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Pixel Density demystified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.worcn3unx)
 * [App Design workflow](https://bjango.com/articles/appdesignworkflow/)
 
-## Typography
+### Typography
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
 
 
