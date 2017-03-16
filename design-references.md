@@ -1,7 +1,9 @@
 # Design References
 A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
+### General
 * [Pixel Density demystified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.worcn3unx)
+* [App Design workflow](https://bjango.com/articles/appdesignworkflow/)
 
 ### iOS
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
