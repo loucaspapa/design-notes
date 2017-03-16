@@ -1,6 +1,8 @@
 # Design References
 A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
+* [Pixel Density demystified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.worcn3unx)
+
 ### iOS
 * [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) – Apple's official guidelines. Everything you need to design beautiful, engaging apps that radiate power and simplicity.
