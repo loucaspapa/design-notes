@@ -1,21 +1,24 @@
 # Design References
 A curated list of useful links around design, typography, colors, prototyping and process (work in progress).
 
+## iOS
+
 ### General
+* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) – Apple's official guidelines. Everything you need to design beautiful, engaging apps that radiate power and simplicity.
+* [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/) – Ivo Mynttinen's design guidelines will help any designer who’s building neat things for iOS get started within seconds.
+* [iPhone 6 Screen size and Web Design Tips](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)
 * [Pixel Density demystified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.worcn3unx)
 * [App Design workflow](https://bjango.com/articles/appdesignworkflow/)
+
+## Typography
+* [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
+
 
 ### UI KIT
 * [iOS 10 UI KIT by Facebook](http://facebook.design/ios10)
 * [iOS 10](http://puzzles.design/)
 
-### iOS
-* [iOSfonts](http://iosfonts.com/) – Every font. Every iOS version.
-* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) – Apple's official guidelines. Everything you need to design beautiful, engaging apps that radiate power and simplicity.
-* [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com/) – Ivo Mynttinen's design guidelines will help any designer who’s building neat things for iOS get started within seconds.
-* [iPhone 6 Screen size and Web Design Tips](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)
-
-### Sketch
+## Sketch
 * [Sketch Shortcuts](http://sketchshortcuts.com/) – A list of keyboard shortcuts for Sketch App.
 * [Diverse Device Hands](http://facebook.design/handskit.html?utm_source=DesignCode) – Facebook's photos of hands holding various phones, to be used in any presentation of your designs.
 * [Sketch app sources](http://www.sketchappsources.com/)
@@ -30,7 +33,7 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) – Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
 * [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) – A Sketch plugin that lets you save and load colors into the color picker.
 
-### Colors
+## Colors
 * [Color Template](http://rocket-design.fr/color-template/) – A bit of theory on how to choose the right colors for your designs.
 * [Spectrum app](http://www.eigenlogik.com/spectrum/mac) – A neat iOS app for creating and managing color schemes — for designers and developers.
 * [Paletton](http://paletton.com/) – An online designer tool for creating color combinations that work together well.
@@ -43,11 +46,11 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Flatuicolors](https://flatuicolors.com/) – A nice palette of colors to start design with.
 * [Sip Color](https://itunes.apple.com/ca/app/sip-color/id934379679?mt=8) – A new and fun way to capture palettes wherever you are. Simply point your camera and it will create it immediately.
 
-### Icons
+## Icons
 * [Streamline](http://www.streamlineicons.com/)
 * [App icon template](https://appicontemplate.com/)
 
-### Typography
+## Typography
 * [Typogui.de](http://www.typogui.de/) – A pocket guide to master every day’s typographic adventures.
 * [Typewolf](https://www.typewolf.com) – Typewolf helps designers choose the perfect font combination for their next design project.
 * [Typography Handbook](http://typographyhandbook.com/) - A concise, referential guide on best web typographic practices.
@@ -58,7 +61,7 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Professional Web Typography](https://prowebtype.com/) – Another great resource on web typography.
 * [Typography for user interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 
-### Process
+## Process
 * [Area17 Methodology](https://guides.area17.com/design-techniques/#preface) – A defined way of working that has great impact on the final product. It consists of a set of design principles and the techniques to achieve them.
 
 <!-- ### Sketching
@@ -67,17 +70,20 @@ A curated list of useful links around design, typography, colors, prototyping an
 ### Usability Testing
 * [Create Task Scenarios](https://studio.uxpin.com/user-research/create-task-scenarios-user-testing/) -->
 
-### Tutorials
+## Tutorials
 * [designcode](https://designcode.io/sketch) – Learn iOS design and Xcode.
 * [bitfountain](https://www.bitfountain.io) – Learn all you need to know to design and build iOS apps.
 
-### Apps
+## PROTOTYPING
 * [Zeplin](https://zeplin.io/) – Design hand-off has never been easier. Generate styleguides and resources, automatically.
 * [Flinto](https://www.flinto.com/mac) – A comprehensive app prototyping tool that allows you to create anything from simple tap-through prototypes, to comprehensive prototypes with impressive interactions.
 * [Principle](http://principleformac.com/) – Principle makes it easy to design animated and interactive user interfaces.
-* [Paste](http://pasteapp.me/) – Stores everything you copy.
-* [Dask](https://kapeli.com/dash) – Instant offline access to 150+ API documentation sets.
+
+## OTHER APPS
 * [Mural](https://mural.co/) – A tool for online brainstorming, synthesis and collaboration.
+* [Dask](https://kapeli.com/dash) – Instant offline access to 150+ API documentation sets.
+* [Paste](http://pasteapp.me/) – Stores everything you copy.
+
 
 
 <!-- ### Videos
