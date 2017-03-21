@@ -12,7 +12,7 @@
 
 It might seem strange at first, that such influential men in typography could have such contradicting opinions when it comes to defining it. Tschichold believed it was more science, Bringhurst sees it more as an art. Both placed it on the line connecting the two but they placed it on the opposite ends.
 
-![Figure 1: Different definitions of typography.][figure-11.png]
+![Figure 1: Different definitions of typography.](figure-11.png)
 
 Tschichold was a part of the revolution in graphic design in the early 1920s. It was the time of industrialization. A time when the engineer was seen as the savior of the world. Engineering was in front and center of whatever was produced. Type setting as a process was being swept into this new industrialized world. Whatever tools graphic designers used at that time, they needed engineering skills. This probably shaped Tschichold’s opinion when it came to defining typography.
 
