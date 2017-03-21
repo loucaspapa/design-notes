@@ -1,7 +1,9 @@
 # Typography newsletter by Matej from Better Web Type
 
-* 1.1 Introduction to typography
+## Lessons
+* [1.1 Introduction to typography](11-introduction-to-typography)
 * [1.2 Equilateral triangle of a perfect paragraph](#12-equilateral-triangle-of-a-perfect-paragraph)
+* [1.3 Anatomy of a typeface](13-anatomy-of-a-typeface)
 
 ## 1.1 Introduction to typography
 “Perfect typography is more science than an art” is a famous quote attributed to Jan Tschichold—the man that published his revolutionary book The New Typography in 1927. He, among other typographers from that era, had a profound impact in the field of typography. >?
@@ -98,3 +100,32 @@ Unfortunately I can’t give you definite numbers of a perfect paragraph as ther
 * [Readability: the optimal line length](https://baymard.com/blog/line-length-readability)
 
 ## 1.3 Anatomy of a typeface
+
+Typefaces come in all shapes and forms. Serif and sans-serif are the two main groups but each consists of numerous styles. Old style, transitional, neoclassical, slab, clarendon and glyphic for serifed typefaces; grotesque, square, humanistic and geometric for the sans serifs. Exploring these reminds me of space exploration. A vast amount of typefaces, each different from the other, each unique, each special. Just like stars and planets, despite their uniqueness, all typefaces have something in common—their anatomy. No matter how special or unique their style is, all typefaces share most of their main features. Looking at typefaces is just like gazing at the night sky and looking at the stars. Nothing special if you don’t know what you’re looking at but very interesting if you know where to look and recognizing unique features that define the typefaces (or stars).
+
+Let’s look at a few main features that will help you gaze the sky a bit better. We don’t need to know all the details so we’ll cover the most basic features. Ascenders and descenders are the most noticeable. They define the shapes of letters and they define the letters themselves. Ascenders are the parts of letters that lie beyond the x-height line and the descenders are the parts that lie below the baseline. Cap height marks the most upper part of the capital letters. Notice that the ascenders go beyond that line. Also notice how some letters go slightly beyond the baseline and the x-height line. Take a look at the “o” and “e” in the figure x. Type designers do that to make the letters optically balanced. A more rounded letter needs to be a bit larger to seem balanced with the other larger and less round letters.
+
+### Type colour & weight
+I mentioned type colour in the previous lesson already. If you remember, I wrote that in typography  by type colour we don’t mean actual colour. We mean how heavy a black typeface looks like on a white background. Let’s do a quick test. We have two typefaces: Merriweather and Georgia. Both are beautiful serifed typefaces. Let’s set them to a size of 16px, apply a dark grey colour and put them on a white background. Let’s put them side by side so we can compare them easily.
+
+Spend a few moments observing the typefaces and the features we just went through. If you spend enough time doing this, you’ll notice the main difference between the two. Merriweather looks heavier. It looks darker. It even looks larger—we’ll come to that soon, let’s focus on the colour and weight for now. Now let’s take a step backwards and look at longer paragraphs. Both are set in regular weight, at the same size and with the same line-height. Yet, they look very different. Georgia has a higher contrast than Merriweather which makes it look lighter. This, combined with other features (height and size of letters) give Georgia less presence on the page. That’s what we mean when we say “type colour” in typography.
+
+### X-height
+We noticed the difference in size of type in the last example. Even though both paragraphs are set at the same size (18px), the two typefaces look very different. Let’s take a closer look.
+
+Let’s compare the attributes of both typefaces. Spend a few minutes observing and comparing them. Done? Ok, let’s see. Let’s draw the lines: the baseline, the x-height line, the cap-height line and the line where descenders end. Let’s do that for Merriweather only as it will be easier to spot the differences.
+
+The baseline lies right at the bottom edge of the lowercase x and the x-height line right at the top edge of it, hence the name x-height. I drew the lines long enough so they go all the way to the side where the word set in Georgia lies. Have you noticed the difference yet? The letters of the same word, set at the same size but set in Georgia don’t touch the x-height line coming from the same word set in Merriweather. The x-height of Georgia is therefore shorter than the one of Merriweather. Take a look at the cap-height line and you’ll notice the same. The height of letters in Georgia, both upper and lowercase, are shorter than the same letters in Merriweather. That’s what makes Merriweather seem taller than Georgia.
+
+We set type sizes on the web by specific dimensions. Whether in pixels, EMs or REMs—we always end up with type set in particular size set in pixels. But these pixels don’t mean a lot in typography. It all depends on the x-height of a typeface.
+
+Typefaces with a taller x-height are considered modern and easier to read. Merriweather, Roboto Slab and Freight Text are great examples of modern serifed typefaces with a large x-height.
+
+Typefaces with a smaller x-height are considered less modern and classical. Great examples include typefaces like Garamond, Baskerville and Bodoni.
+
+We’ll come back to x-height in the lesson about combining typefaces so keep it in mind.
+
+### Explore further
+* [Type Classifications](https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/type-classifications)
+* [Anatomy of a typeface](http://typedia.com/learn/only/anatomy-of-a-typeface/)
+
