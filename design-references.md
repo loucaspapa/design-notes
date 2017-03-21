@@ -51,6 +51,12 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [App icon template](https://appicontemplate.com/)
 
 ## Typography
+### 1.1 
+* [Web design is 95% typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
+* [Font vs Typeface](http://studiobuchanan.co.uk/talkingtype/fontvstypeface)
+* [Jan Tschichold](http://www.designishistory.com/1920/jan-tschichold/)
+* [Book: The Elements of Typographic Style by Robert Bringhurst](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style?ac=1&from_search=true)
+
 * [Typogui.de](http://www.typogui.de/) – A pocket guide to master every day’s typographic adventures.
 * [Typewolf](https://www.typewolf.com) – Typewolf helps designers choose the perfect font combination for their next design project.
 * [Typography Handbook](http://typographyhandbook.com/) - A concise, referential guide on best web typographic practices.
