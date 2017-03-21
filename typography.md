@@ -1,7 +1,7 @@
 # Typography newsletter by Matej from Better Web Type
 
 * 1.1 Introduction to typography
-* [1.2 Equilateral triangle of a perfect paragraph](#1.2-Equilateral-triangle-of-a-perfect-paragraph)
+* [1.2 Equilateral triangle of a perfect paragraph](#12-Equilateral-triangle-of-a-perfect-paragraph)
 
 ## 1.1 Introduction to typography
 “Perfect typography is more science than an art” is a famous quote attributed to Jan Tschichold—the man that published his revolutionary book The New Typography in 1927. He, among other typographers from that era, had a profound impact in the field of typography. >?
