@@ -1,6 +1,6 @@
 # Typography newsletter by Matej from Better Web Type
 
-* [1.1 Introduction to typography](#1.1 Introduction to typography)
+* 1.1 Introduction to typography
 * 1.2 Equilateral triangle of a perfect paragraph
 
 ## 1.1 Introduction to typography
