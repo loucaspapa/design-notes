@@ -60,6 +60,16 @@ A curated list of useful links around design, typography, colors, prototyping an
 * [Typekit Practice](http://practice.typekit.com/) – Typography is a practice.
 * [Professional Web Typography](https://prowebtype.com/) – Another great resource on web typography.
 * [Typography for user interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
+* [Type Glossary](https://typedecon.com/blogs/type-glossary)
+* [Fonts in use](https://fontsinuse.com/)
+* [Adobe Typekit](https://typekit.com/fonts)
+* [Jason Santa Maria's Pinteresest Board](https://www.pinterest.com/jasonsantamaria/boards/)
+* [List of Foundries](https://pinboard.in/u:jsm/t:Foundries/)
+* [Archetype](http://www.archetypeapp.com/)
+* [The Type Director's Club](https://www.tdc.org/)
+* [Type Detail](http://typedetail.com/)
+* [Butterick's practical typography](http://practicaltypography.com/)
+* [Thinking with type](http://thinkingwithtype.com/)
 
 ## Process
 * [Area17 Methodology](https://guides.area17.com/design-techniques/#preface) – A defined way of working that has great impact on the final product. It consists of a set of design principles and the techniques to achieve them.
